@@ -1,0 +1,18 @@
+Git的使用教程：
+http://www.liaoxuefeng.com/
+
+
+java与php的数据交换方案：
+1. 利用LAJP(Linux Apache Java Php)
+参考：http://blog.csdn.net/jianfeng_zhou/article/details/21518787
+	  http://anyoneking.com/archives/743
+2. 利用java和php的bridge
+参考：http://www.developer.com/java/other/php-with-java-using-php-java-bridge-tutorial.html
+
+
+php页面模板：
+https://speckyboy.com/2014/05/16/free-bootstrap-admin-themes/
+
+一些在线webapp开发工具：
+1. JSFiddle（貌似不支持php）
+2. Cloud9（支持php）
